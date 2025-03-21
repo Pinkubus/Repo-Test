@@ -1,4 +1,2 @@
 New File Text
-NEWER file text
-What if it isn't up to date what then 
-Okay I added a branch was that the problem...
+Okay this update was added to the branch... didn't know I had to checkout the branch to move to it first after creating it. git checkout -b branchname to skip that.
