@@ -1,1 +1,2 @@
 New File Text
+Okay this update was added to the branch... didn't know I had to checkout the branch to move to it first after creating it. git checkout -b branchname to skip that.
