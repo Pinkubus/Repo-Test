@@ -1,1 +1,4 @@
 New File Text
+NEWER file text
+What if it isn't up to date what then 
+Okay I added a branch was that the problem...
